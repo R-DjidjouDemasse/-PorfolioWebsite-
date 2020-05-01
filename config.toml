@@ -6,8 +6,8 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Ramsès Djidjou-Demasse"
+  subtitle    = ""
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
