@@ -5,4 +5,6 @@ draft: false
 image: "SEAIR_COVID_severe.svg"
 weight: 5
 ---
-<a href="http://covid-ete.ouvaton.org/index_en.html/{{.}}" target="_blank" rel="noopener">Facebook</a>
+[You can use numbers for reference-style link definitions][1]
+
+[1]: http://covid-ete.ouvaton.org/index_en.html
