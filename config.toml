@@ -61,7 +61,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "NEWS"
-  url = "https://gitlab-bioinfo.ird.fr/R-DjidjouDemasse/monrpremierprojet/blob/master/Module2/MonPremier.html"
+  url = "/"
   weight = 200
 
 [[menu.main]]
