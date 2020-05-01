@@ -50,7 +50,7 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "REASERCH"
+  name = "RESEARCH"
   url = "/"
   weight = 200
 
