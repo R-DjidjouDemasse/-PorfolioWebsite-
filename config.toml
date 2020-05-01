@@ -25,10 +25,10 @@ paginate        = 6
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
+  author = "RDD"
   authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
+  authorLocation = "Montpellier, FR"
+  authorWebsite = "https://djidjoudemasse.com"
   authorDescription = "Describe yourself.."
 
   pageNotFoundTitle = "404 - Page not found"
