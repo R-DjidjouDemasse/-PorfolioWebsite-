@@ -5,4 +5,4 @@ draft: false
 image: "SEAIR_COVID_severe.svg"
 weight: 5
 ---
-<a href="https://www.facebook.com/{{.}}" target="_blank" rel="noopener">Facebook</a>
+<a href="http://covid-ete.ouvaton.org/index_en.html/{{.}}" target="_blank" rel="noopener">Facebook</a>
