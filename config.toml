@@ -40,7 +40,37 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
+  name = "HOME"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "PEOPLE"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "REASERCH"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "PUBLICATIONS"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "NEWS"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "OPPORTUNITIES"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "CONTACT"
   url = "/"
   weight = 200
 
