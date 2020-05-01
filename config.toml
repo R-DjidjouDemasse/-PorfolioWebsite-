@@ -27,8 +27,7 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "RDD"
-  authorAvatar = " "
-  #"img/ghost-icon.png"
+  authorAvatar = "img/ghost-icon.png"
   authorLocation = "Montpellier, FR"
   authorWebsite = "https://djidjoudemasse.com"
   authorDescription = "Describe yourself.."
