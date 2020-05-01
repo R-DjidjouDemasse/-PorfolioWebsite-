@@ -20,8 +20,7 @@ paginate        = 6
   fbName = "fakeghost"
   githubName = "eueung"
 
-  logo = " "
-  # "hugo-logo.png"
+  logo = ""#"hugo-logo.png"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
