@@ -85,6 +85,6 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "External"
+  name = "Google"
   url = "https://google.com/"
   weight = 95
