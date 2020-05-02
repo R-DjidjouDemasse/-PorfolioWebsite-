@@ -5,4 +5,4 @@ draft: false
 image: "SEAIR_COVID_severe.svg"
 ---
 
-Our [reports and softwares](http://covid-ete.ouvaton.org/index_en.html) on the ongoing epidemics.
+Our [ETE](https://www.mivegec.ird.fr/fr/contact/160-francais/equipes/1205-ete) team's [reports and softwares](http://covid-ete.ouvaton.org/index_en.html) on the ongoing epidemics.
