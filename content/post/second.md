@@ -1,7 +1,7 @@
 ---
 title: "Untitled"
 output: html_document
-tags: ["food"]
+categories: ["food"]
 ---
 
 ```{r setup, include=FALSE}
