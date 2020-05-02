@@ -5,7 +5,6 @@ draft: false
 image: "SEAIR_COVID_severe.svg"
 ---
 
-Our [reports and softwares][1] on the ongoing epidemics
-Our [reports and softwares](http://covid-ete.ouvaton.org/index_en.html) on the ongoing epidemics
+Our [reports and softwares](http://covid-ete.ouvaton.org/index_en.html) on the ongoing epidemics.
 
 [1]http://covid-ete.ouvaton.org/index_en.html
