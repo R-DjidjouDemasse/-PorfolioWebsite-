@@ -1,6 +1,7 @@
 ---
 title: "Untitled"
 output: html_document
+tags: ["food"]
 ---
 
 ```{r setup, include=FALSE}
