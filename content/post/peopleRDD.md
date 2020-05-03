@@ -3,7 +3,7 @@ title: ""
 image: ""
 output: html_document
 draft: false
-categories: ["people"]
+categories: ["PEOPLE"]
 ---
 ### Ramsès Djidjou-Demasse
 
