@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "HOME"
-  url = "https://djidjoudemasse.com/"
+  url = "/"
   weight = 200
 
 [[menu.main]]
@@ -56,22 +56,22 @@ paginate        = 6
 
 [[menu.main]]
   name = "PUBLICATIONS"
-  url = "https://cv.archives-ouvertes.fr/ramses-djidjou-demasse#"
+  url = "/categories/PUBLICATIONS/"
   weight = 200
 
 [[menu.main]]
   name = "NEWS"
-  url = "/"
+  url = "/tags/NEWS/"
   weight = 200
 
 [[menu.main]]
   name = "OPPORTUNITIES"
-  url = "/"
+  url = "/tags/OPPORTUNITIES/"
   weight = 200
 
 [[menu.main]]
   name = "CONTACT"
-  url = "/"
+  url = "/categories/CONTACT/"
   weight = 200
 
 [[menu.main]]
