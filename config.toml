@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "layouts/partials/RDDpeople.html"
+  url = "/layouts/partials/RDDpeople.html"
   weight = 200
 
 [[menu.main]]
