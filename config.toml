@@ -1,4 +1,4 @@
-baseurl         = "https://djidjoudemasse.com"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
