@@ -2,7 +2,7 @@
 title: "rtt"
 date: 2020-05-01T12:17:38+02:00
 draft: false
-description: Metallica is an American heavy metal band formed in 1981.
+image: "SEAIR_COVID_severe.svg"
 tags: ["people"]
 ---
 
