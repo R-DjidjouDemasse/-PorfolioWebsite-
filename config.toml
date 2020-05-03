@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Ramsès Djidjou-Demasse"
+  title       = "Ramsès-Djidjou-Demasse"
   subtitle    = "under construction"
 
   cover       = "img/blog-cover.jpg"
@@ -46,7 +46,6 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  identifier = "people"
   url = "/people/"
   weight = 200
 
