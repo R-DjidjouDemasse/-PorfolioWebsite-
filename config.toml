@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "https://djidjoudemasse.com/PEOPLE/"
+  url = "/categories/PEOPLE/"
   weight = 200
 
 [[menu.main]]
