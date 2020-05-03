@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://djidjoudemasse.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "/categories/PEOPLE"
+  url = "/categories/PEOPLE/"
   weight = 200
 
 [[menu.main]]
