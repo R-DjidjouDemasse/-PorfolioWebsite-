@@ -41,12 +41,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "HOME"
-  url = "/"
+  url = "https://djidjoudemasse.com/"
   weight = 200
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "/categories/PEOPLE/"
+  url = "https://djidjoudemasse.com/PEOPLE/"
   weight = 200
 
 [[menu.main]]
