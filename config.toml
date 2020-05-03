@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Ramsès Djidjou-Demasse"
-  subtitle    = "under construction"
+  subtitle    = "under construction V0"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
