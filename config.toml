@@ -81,7 +81,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Food"
-  url = "/categories/food/"
+  url = "/categories/food/testdd.md"
   weight = 99
 
 [[menu.main]]
