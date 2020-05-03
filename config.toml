@@ -47,7 +47,7 @@ paginate        = 6
 [[menu.main]]
   name = "PEOPLE"
   url = "/categories/PEOPLE"
-  weight = 99
+  weight = 200
 
 [[menu.main]]
   name = "RESEARCH"
