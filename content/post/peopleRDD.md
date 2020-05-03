@@ -1,6 +1,5 @@
 ---
 title: ""
-output: html_document
 image: ""
 draft: false
 categories: ["people"]
