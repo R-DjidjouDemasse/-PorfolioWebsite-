@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "/"
+  url = "/categories/PEOPLE"
   weight = 200
 
 [[menu.main]]
@@ -82,7 +82,7 @@ paginate        = 6
 [[menu.main]]
   name = "Food"
   url = "/categories/food/"
-  weight = 99
+  weight = 20
 
 [[menu.main]]
   name = "Google"
