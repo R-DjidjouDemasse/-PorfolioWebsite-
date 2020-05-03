@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "/rddpeople.html"
+  url = "/tags/people/"
   weight = 200
 
 [[menu.main]]
