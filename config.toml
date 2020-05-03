@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Ramsès Djidjou-Demasse"
-  subtitle    = "under construction V0"
+  subtitle    = "under construction"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PEOPLE"
-  url = "/content/"
+  url = "/people/test2.md"
   weight = 200
 
 [[menu.main]]
@@ -81,7 +81,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Food"
-  url = "/categories/food/testdd.md"
+  url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
