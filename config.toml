@@ -47,7 +47,7 @@ paginate        = 6
 [[menu.main]]
   name = "PEOPLE"
   identifier = "people"
-  url = "/people/test2.md"
+  url = "/people/"
   weight = 200
 
 [[menu.main]]
