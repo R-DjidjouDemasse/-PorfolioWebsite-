@@ -7,7 +7,7 @@ categories: ["PEOPLE"]
 ---
 ### Ramsès Djidjou-Demasse
 
-#### The French National Research Institute for Development [(IRD)](https://en.ird.fr/content/key-stakeholder-sustainable-development-science)...
+#### The French National Research Institute for Development [(IRD)](https://en.ird.fr/content/key-stakeholder-sustainable-development-science)
 ##### MIVEGEC
 
 ###### Curriculum Vitae
