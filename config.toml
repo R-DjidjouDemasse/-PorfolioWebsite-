@@ -52,7 +52,7 @@ paginate        = 6
 [[menu.main]]
   name = "RESEARCH"
   url = "/tags/RESEARCH/"
-  weight = -200
+  weight = 200
 
 [[menu.main]]
   name = "PUBLICATIONS"
