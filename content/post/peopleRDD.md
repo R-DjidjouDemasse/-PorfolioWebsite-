@@ -5,11 +5,11 @@ output: html_document
 draft: false
 categories: ["people"]
 ---
-# Ramsès Djidjou-Demasse
+### Ramsès Djidjou-Demasse
 
-## The French National Research Institute for Development [(IRD)](https://en.ird.fr/content/key-stakeholder-sustainable-development-science)
-## MIVEGEC
+#### The French National Research Institute for Development [(IRD)](https://en.ird.fr/content/key-stakeholder-sustainable-development-science)
+#### MIVEGEC
 
-### Curriculum Vitae
+##### Curriculum Vitae
 
-### Email: ramses.djidjoudemasse (at) ird.fr
+##### Email: ramses.djidjoudemasse (at) ird.fr
