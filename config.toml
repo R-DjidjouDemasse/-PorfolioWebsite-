@@ -39,8 +39,6 @@ paginate        = 6
 [permalinks]
   post = "/:slug/"
 
-[permalinks]
-  people = "/:slug/"
 
 [[menu.main]]
   name = "HOME"
