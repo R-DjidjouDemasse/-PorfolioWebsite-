@@ -27,10 +27,6 @@ weight = 111
 > ## Mboy Ba
 > ### PhD candidate at [UCAD](https://www.ucad.sn/) on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 > ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
 > ### Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites.
