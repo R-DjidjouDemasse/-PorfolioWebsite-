@@ -13,9 +13,9 @@ weight = 111
 +++
 
 > ## [Ramsès Djidjou-Demasse](https://djidjoudemasse.com/)
-> Researcher at the [IRD](https://en.ird.fr/)
-> Lab [MIVEGEC](https://mivegec.ird.fr/en/)
-> Curriculum Vitae
+> Researcher at the [IRD](https://en.ird.fr/)...
+> Lab [MIVEGEC](https://mivegec.ird.fr/en/)...
+> Curriculum Vitae...
 > Email: [ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
 &nbsp;
