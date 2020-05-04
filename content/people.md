@@ -12,7 +12,7 @@ weight = 111
 
 +++
 
-> ## Ramsès Djidjou-Demasse
+> # Ramsès Djidjou-Demasse
 > ### Researcher at the [IRD](https://en.ird.fr/)
 > ### Lab [MIVEGEC](https://mivegec.ird.fr/en/)
 > #### Curriculum Vitae
@@ -22,6 +22,7 @@ weight = 111
 &nbsp;
 &nbsp;
 &nbsp;
+Current Lab Members
 
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+> # [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
+> ### Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites
