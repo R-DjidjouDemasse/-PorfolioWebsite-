@@ -22,7 +22,7 @@ weight = 111
 &nbsp;
 &nbsp;
 &nbsp;
-#Current Lab Members
+# Current Lab Members
 
 > ## Mboy Ba
 > ### PhD candidate at [UCAD](https://www.ucad.sn/) on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
@@ -34,3 +34,9 @@ weight = 111
 
 > ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
 > ### Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+# Current Lab Members
