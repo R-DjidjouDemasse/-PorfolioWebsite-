@@ -43,7 +43,7 @@ paginate        = 6
 [[menu.main]]
   name = "HOME"
   url = "/"
-  weight = 200
+  weight = 300
 
 
 [[menu.main]]
