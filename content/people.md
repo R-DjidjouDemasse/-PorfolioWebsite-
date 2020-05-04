@@ -13,13 +13,12 @@ weight = 111
 +++
 
 > ## Ramsès Djidjou-Demasse
-> ### Research the [IRD](https://en.ird.fr/)
+> ### Researcher at the [IRD](https://en.ird.fr/)
 > ### Lab [MIVEGEC](https://mivegec.ird.fr/en/)
 > #### Curriculum Vitae
-> #### Email: ramses.djidjoudemasse(at)ird.fr
+> #### Email: [ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
 
-" "
 
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
