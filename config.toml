@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Ramsès Djidjou-Demasse"
+  title       = "Rams Djidjou-Demasse"
   subtitle    = "under construction"
 
   cover       = "img/blog-cover.jpg"

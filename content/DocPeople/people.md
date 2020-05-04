@@ -22,7 +22,7 @@ weight = 111
 &nbsp;
 &nbsp;
 &nbsp;
-# Current members
+___
 
 > ## Mboy Ba
 > ### PhD candidate at [UCAD](https://www.ucad.sn/) on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
@@ -35,4 +35,4 @@ weight = 111
 &nbsp;
 &nbsp;
 &nbsp;
-# Album
+___
