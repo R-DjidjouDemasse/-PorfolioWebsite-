@@ -18,9 +18,10 @@ weight = 111
 > #### Curriculum Vitae
 > #### Email: [ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
-$~$
-$~$
-$~$
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
