@@ -12,6 +12,5 @@ weight = 250
 
 +++
 
-'''
 >We focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. Our works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems. 
 
