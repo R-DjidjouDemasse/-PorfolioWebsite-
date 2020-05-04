@@ -5,6 +5,7 @@ draft: false
 image: "SEAIR_COVID_severe.svg"
 title = "People"
 type = "page"
+ url = "/people/"
 [menu.main]
 weight = 111
 ---

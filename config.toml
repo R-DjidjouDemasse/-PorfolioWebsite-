@@ -45,6 +45,10 @@ paginate        = 6
   url = "/"
   weight = 200
 
+[[menu.main]]
+  name = "PEOPLE"
+  url = "/tags/people/"
+  weight = 200
 
 [[menu.main]]
   name = "RESEARCH"
