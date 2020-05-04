@@ -12,7 +12,7 @@ weight = 111
 
 +++
 
-> # Ramsès Djidjou-Demasse
+> ## [Ramsès Djidjou-Demasse](https://djidjoudemasse.com/)
 > ### Researcher at the [IRD](https://en.ird.fr/)
 > ### Lab [MIVEGEC](https://mivegec.ird.fr/en/)
 > #### Curriculum Vitae
@@ -22,7 +22,15 @@ weight = 111
 &nbsp;
 &nbsp;
 &nbsp;
-Current Lab Members
+#Current Lab Members
 
-> # [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
-> ### Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites
+> ## Mboy Ba
+> ### PhD candidate at [UCAD](https://www.ucad.sn/) on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+> ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
+> ### Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites.
