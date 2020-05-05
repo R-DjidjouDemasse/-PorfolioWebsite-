@@ -37,11 +37,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 [//]:# (<p><img src="/uploads/computing.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">)
 
 
-## Antimicrobial resistance
-Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
 
-## Durability of plant disease resistance genes
-Plants disease resistance genes are not eternal and mathematical models can lead to practical insights on the optimal deployment in time and space to sustainably manage varietal resistance in agro-ecosystems.
 
 ## Adaptive dynamics
 We study evolutionary dynamics of a population, for e.g., by taking into account mutation or selection processes. Here, a focus is on integro-differential
@@ -57,7 +53,7 @@ The host-vector pairing is a fundamental relationship in the transmission and ev
 <head>
 <style>
 .newspaper {
-  column-count: 3;
+  column-count: 2;
   column-gap: 40px;
 }
 </style>
@@ -65,7 +61,11 @@ The host-vector pairing is a fundamental relationship in the transmission and ev
 <body>
 
 <div class="newspaper">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+## Antimicrobial resistance
+Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
+
+## Durability of plant disease resistance genes
+Plants disease resistance genes are not eternal and mathematical models can lead to practical insights on the optimal deployment in time and space to sustainably manage varietal resistance in agro-ecosystems.
 </div>
 
 </body>
