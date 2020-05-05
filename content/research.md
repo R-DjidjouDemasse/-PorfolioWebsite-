@@ -28,8 +28,6 @@ img {
 </head>
 <body>
 
-<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
-
 <p><img src="/SEAIR_COVID_severe.svg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
 ## Scientific computing 
 Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
