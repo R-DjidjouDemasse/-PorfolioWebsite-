@@ -34,8 +34,16 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 </body>
 </html>
 
-
-    <!-- Three columns of text below the carousel -->
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+<!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-4 col-sm-4">
           <img class="img-circle" src="figures/phyloepid.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
@@ -118,6 +126,8 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
    </br>
 
 </div>
+</body>
+</html>
 
 
 
