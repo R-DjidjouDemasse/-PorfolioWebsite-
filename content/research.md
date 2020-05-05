@@ -40,8 +40,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](/SEAIR_COVID_severe.svg) -->
-  <img height="600px" class="center-block" src="/SEAIR_COVID_severe.svg">
+  another text
   </div>
 </div>
 
