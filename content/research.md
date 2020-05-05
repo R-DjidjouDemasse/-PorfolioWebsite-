@@ -29,11 +29,9 @@ img {
 <body>
 
 ## Scientific computing 
-<p><img src="/uploads/computing.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;"> Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
+Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
 </body>
 </html>
-
-
 
 
 
