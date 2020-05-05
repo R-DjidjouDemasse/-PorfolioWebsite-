@@ -18,10 +18,6 @@ weight = 111
 > Curriculum Vitae\
 > Email: [ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ___
 
 > ## Mboy Ba
@@ -31,8 +27,4 @@ ___
 > ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
 > Postdoctoral resaercher on modellling of transmission strategies of vector-borne parasites.
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ___
