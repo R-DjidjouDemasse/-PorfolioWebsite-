@@ -20,6 +20,3 @@ By involving many fields (mathematics, social sciences, biology), the aim here i
 ## Scientific computing
 <img align="left" width="300" height="200" src="/SEAIR_COVID_severe.svg"> Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools. 
 
-<div style="float: right">
-    ![Replace this with your image]("/SEAIR_COVID_severe.svg")
-</div>
