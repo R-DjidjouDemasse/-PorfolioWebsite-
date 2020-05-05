@@ -38,16 +38,48 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 
 
 ## Antimicrobial resistance
+Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
 
 ## Durability of plant disease resistance genes
+Plants disease resistance genes are not eternal and mathematical models can lead to practical insights on the optimal deployment in time and space to sustainably manage varietal resistance in agro-ecosystems.
 
 ## Adaptive dynamics
+We study evolutionary dynamics of a population, for e.g., by taking into account mutation or selection processes. Here, a focus is on integro-differential
+equations with nonlocal terms.
 
 ## Optimal control of infectious diseases
+Management or control of an outbreak is a priority for both public health concerns and environmental considerations. Optimal control theory is a tremendous means for studying and proposing decision support tools. We develop works around this theory for infectious diseases such as COVID-19, HIV or HBV. 
 
-## Malaria 
+## Human malaria 
+The host-vector pairing is a fundamental relationship in the transmission and evolution of malaria parasites. Through the bacterial diversity within a host, different parasitic forms and environmental impact on the evolution of the vector, we develop models at both within- and between-host scales to better understand mechanisms favouring the persistence of this disease. 
 
-## HIV and ART
+<div class="w3-row">
+  <div class="w3-half w3-container">
+  <h2>Unordered Lists:</h2>
+<ul style="list-style:circle">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+<ul style="list-style:square">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+  </div>
+  <div class="w3-half w3-container">
+  <h2>Ordered Lists:</h2>  
+<ol style="list-style:decimal">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+<ol style="list-style:upper-roman">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+  </div>
+</div>
 
-### HBV
 
