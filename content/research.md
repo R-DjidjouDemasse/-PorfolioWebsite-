@@ -37,11 +37,17 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 [//]:# (<p><img src="/uploads/computing.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">)
 
 
-### Antimicrobial resistance
+## Antimicrobial resistance
 
-### Malaria 
+## Durability of plant disease resistance genes
 
-### HIV and ART
+## Adaptive dynamics
+
+## Optimal control of infectious diseases
+
+## Malaria 
+
+## HIV and ART
 
 ### HBV
 
