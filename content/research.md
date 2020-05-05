@@ -53,33 +53,22 @@ Management or control of an outbreak is a priority for both public health concer
 ## Human malaria 
 The host-vector pairing is a fundamental relationship in the transmission and evolution of malaria parasites. Through the bacterial diversity within a host, different parasitic forms and environmental impact on the evolution of the vector, we develop models at both within- and between-host scales to better understand mechanisms favouring the persistence of this disease. 
 
-<div class="w3-row">
-  <div class="w3-half w3-container">
-  <h2>Unordered Lists:</h2>
-<ul style="list-style:circle">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ul>
-<ul style="list-style:square">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ul>
-  </div>
-  <div class="w3-half w3-container">
-  <h2>Ordered Lists:</h2>  
-<ol style="list-style:decimal">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ol>
-<ol style="list-style:upper-roman">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ol>
-  </div>
+<html>
+<head>
+<style>
+.newspaper {
+  column-count: 3;
+  column-gap: 40px;
+}
+</style>
+</head>
+<body>
+
+<div class="newspaper">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
 </div>
+
+</body>
+</html>
 
 
