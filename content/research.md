@@ -36,6 +36,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 
 [//]:# (<p><img src="/uploads/computing.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">)
 
+{{< ref "AMR.md" >}}
 
 ## [Antimicrobial resistance](/AMR.md)
 Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
