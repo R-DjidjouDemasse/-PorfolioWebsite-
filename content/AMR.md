@@ -5,7 +5,6 @@ draft = false
 noauthor = true
 share = false
 title = "AMR"
-type = "page"
 parent = "Research"
 [menu.main]
    name = "amr"
