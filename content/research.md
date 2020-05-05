@@ -17,8 +17,26 @@ weight = 250
 ## Population dynamics
 By involving many fields (mathematics, social sciences, biology), the aim here is to describe variations over time of biological systems. These systems involve a time variable and one or more structuring variables (time since infection, chronological age, space, phenotypic trait, etc.).  In a deterministic framework, these systems are usually described by ODEs (Ordinary Differential Equations), DDEs (Delayed Differential Equations) or PDEs (Partial Derivative Equations). Their study is based on dynamical systems theory.
 
-## Scientific computing
-<img align="left" width="300" height="200" src="/SEAIR_COVID_severe.svg"> Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools. 
+
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
+
+<p><img src="/SEAIR_COVID_severe.svg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+## Scientific computing 
+Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
+</body>
+</html>
+
+
 
 <html>
 <head>
