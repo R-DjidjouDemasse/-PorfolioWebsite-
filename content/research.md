@@ -6,7 +6,6 @@ noauthor = true
 share = false
 title = " "
 type = "page"
-hasChildren = true
 [menu.main]
    name = "Research"
 weight = 250
