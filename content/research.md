@@ -35,26 +35,16 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 </html>
 
 
-# Rule 1
-Description for rule 1.
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](/SEAIR_COVID_severe.svg) -->
+  <img height="600px" class="center-block" src="/SEAIR_COVID_severe.svg">
+  </div>
 </div>
+
 
 
 ### Antimicrobial resistance
