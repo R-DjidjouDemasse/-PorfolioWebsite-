@@ -38,7 +38,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 
 {{< ref "AMR.md" >}}
 
-## [Antimicrobial resistance](/AMR.htlm)
+## [Antimicrobial resistance](/AMR.md)
 Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
 
 ## Durability of plant disease resistance genes
