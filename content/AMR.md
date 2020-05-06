@@ -5,7 +5,7 @@ draft = false
 noauthor = true
 share = false
 title = "Antimicrobial resistance"
-type = "page"
+type = "categories"
 
 +++
 
