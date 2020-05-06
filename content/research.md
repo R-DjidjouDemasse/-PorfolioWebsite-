@@ -18,25 +18,13 @@ weight = 250
 By involving many fields (mathematics, social sciences, biology), the aim here is to describe variations over time of biological systems. These systems involve a time variable and one or more structuring variables (time since infection, chronological age, space, phenotypic trait, etc.).  In a deterministic framework, these systems are usually described by ODEs (Ordinary Differential Equations), DDEs (Delayed Differential Equations) or PDEs (Partial Derivative Equations). Their study is based on dynamical systems theory.
 
 
-<html>
-<head>
-<style>
-img {
-  float: left;
-}
-</style>
-</head>
-<body>
 
 ## Scientific computing
-Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
-</body>
-</html>
+Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.
 
 
 [//]:# (<p><img src="/uploads/computing.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">)
 
-{{< ref "AMR.md" >}}
 
 ## [Antimicrobial resistance](/AMR.html)
 Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
