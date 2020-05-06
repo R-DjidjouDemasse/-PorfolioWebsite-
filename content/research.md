@@ -29,7 +29,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 ## [Antimicrobial resistance](/AMR.html)
 Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
 
-## Durability of plant disease resistance genes
+## [Durability of plant disease resistance genes](/PlansRG.html)
 Plants disease resistance genes are not eternal and mathematical models can lead to practical insights on the optimal deployment in time and space to sustainably manage varietal resistance in agro-ecosystems.
 
 ## Adaptive dynamics
