@@ -5,7 +5,7 @@ draft = false
 noauthor = true
 share = false
 title = " "
-type = "page"
+type = "pages"
 [menu.main]
    name = "Research"
 weight = 250
