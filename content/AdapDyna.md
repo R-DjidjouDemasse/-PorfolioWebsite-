@@ -38,7 +38,7 @@ img {
 </head>
 <body>
 
-<p> The monomorphic concentration phenomenon at the evolutionary equilibrium illustrates above is not generaly verify in the case of host heteregeneous environment. That is because the the optimization principle holds only for some configurations, and the shape of R0 function does not allow to characterize evolutionary attractors. The Pairwise Invasibility Plot (PIP) must be used instead. As illustrate below, we have a polymorphic pathogen population at equilibrium in different proportions (panels d,e) but only one local maximum for the R0 as confirmed by the gradient (panels b,c). However, the PIP predicts a polymorphic population (panel a) ([Djidjou-Demasse et al.](https://www.biorxiv.org/content/10.1101/423467v2.full.pdf)).</p>
+<p> The monomorphic concentration phenomenon at the evolutionary equilibrium illustrates above is not generaly verify in the case of host heteregeneous environment. That is because the the optimization principle holds only for some configurations, and the shape of R0 function does not allow to characterize evolutionary attractors. The Pairwise Invasibility Plot (PIP) must be used instead. As illustrate below, we have a polymorphic pathogen population at equilibrium in different proportions (panels d,e) but only one local maximum for the R0 as confirmed by the gradient (panels b,c). However, the PIP predicts a polymorphic population (panel a). Indeed, singular strategies, muS and muR, are respectively branching point and evolutionarily stable (no nearby mutant can invade) ([Djidjou-Demasse et al.](https://www.biorxiv.org/content/10.1101/423467v2.full.pdf)).</p>
 <img src="/uploads/Fig-supp-mat.jpg" alt="RO vs PIP" width="1000" height="300">
 </body>
 </html>
