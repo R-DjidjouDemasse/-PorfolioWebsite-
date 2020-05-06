@@ -32,7 +32,7 @@ Defining sustainable strategies for managing antimicrobial efficiency (a worldwi
 ## [Durability of plant disease resistance genes](/PlantsRG.html)
 Plants disease resistance genes are not eternal and mathematical models can lead to practical insights on the optimal deployment in time and space to sustainably manage varietal resistance in agro-ecosystems.
 
-## Adaptive dynamics
+## [Adaptive dynamics](/AdapDyna.html)
 We study evolutionary dynamics of a population, for e.g., by taking into account mutation or selection processes. Here, a focus is on integro-differential
 equations with nonlocal terms.
 
