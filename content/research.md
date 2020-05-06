@@ -28,7 +28,7 @@ img {
 </head>
 <body>
 
-## Scientific computing 
+## Scientific computing (/AMR.md)
 Quite often, a very high complexity (i.e., too strong nonlinearity) of the modeling problem leads to situations where it is difficult to conduct a complete mathematical analysis of the model dynamics. In such cases, it is useful to be able to use the techniques of scientific calculation. It is a discipline that allows a complete numerical experimentation of the model by bringing together a set of mathematical and computer science tools.</p>
 </body>
 </html>
@@ -38,7 +38,7 @@ Quite often, a very high complexity (i.e., too strong nonlinearity) of the model
 
 {{< ref "AMR.md" >}}
 
-## [Antimicrobial resistance](/AMR.md)
+## [Antimicrobial resistance](/AMR.htlm)
 Defining sustainable strategies for managing antimicrobial efficiency (a worldwide major problem), in space and time, by considering the continuous character of antimicrobial resistance with varying degrees of intermediate resistance (called tolerance).
 
 ## Durability of plant disease resistance genes
