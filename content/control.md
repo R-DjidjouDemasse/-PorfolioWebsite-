@@ -35,13 +35,13 @@ type = "page"
 
 <div class="row">
   <div class="column">
-    <img src="/uploads/alpha-fig.jpg" alt="alpha" style="width:100%">
+    <img src="/uploads/alpha-fig.jpg" alt="alpha" style="width:33%">
   </div>
   <div class="column">
-    <img src="/uploads/S.jpg" alt="S" style="width:100%">
+    <img src="/uploads/S.jpg" alt="S" style="width:33%">
   </div>
   <div class="column">
-    <img src="/uploads/Sh.jpg" alt="Sh" style="width:100%">
+    <img src="/uploads/Sh.jpg" alt="Sh" style="width:33%">
   </div>
 </div>
 
