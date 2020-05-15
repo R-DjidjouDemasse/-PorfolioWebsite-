@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Ramsès Djidjou-Demasse"
-  subtitle    = "under construction"
+  subtitle    = "Dynamical Systems, Population Biology of Infectious Diseases"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
@@ -50,12 +50,12 @@ paginate        = 6
 [[menu.main]]
   name = "PUBLICATIONS"
   url = "https://cv.archives-ouvertes.fr/ramses-djidjou-demasse#"
-  weight = 200
+  weight = 230
 
-[[menu.main]]
-  name = "NEWS"
-  url = "/tags/news/"
-  weight = 200
+#[[menu.main]]
+#  name = "NEWS"
+#  url = "/tags/news/"
+#  weight = 200
 
 [[menu.main]]
   name = "OPPORTUNITIES"
@@ -65,7 +65,7 @@ paginate        = 6
 [[menu.main]]
   name = "CONTACT"
   url = "/categories/contact/"
-  weight = 200
+  weight = 100
 
 #[[menu.main]]
   #name = "Go"

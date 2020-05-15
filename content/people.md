@@ -8,7 +8,7 @@ title = " "
 type = "page"
 [menu.main]
    name = "people"
-weight = 111
+weight = 250
 
 +++
 
