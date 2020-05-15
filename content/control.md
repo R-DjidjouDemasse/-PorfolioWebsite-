@@ -22,7 +22,7 @@ img {
 </head>
 <body>
 <h2>HBV (Hepatitis B Virus)</h2>
-<img src="/uploads/controlHBV.jpg" alt="controlHBV" width="1500" height="600">
+<img src="/uploads/controlHBV.jpg" alt="controlHBV" width="1000" height="300">
 <p> One of the characteristics of HBV transmission is the age structure of the host population and the vertical transmission of the disease. The infection is transmitted directly from infected mother to an embryo, fetus, or baby during pregnancy or childbirth (the perinatal infection). Further, symptomatic and asymptomatic HBV infections are age-dependent and the risk of asymptomatic HBV infection is inversely related to age at infection. By formulating an age-structured model for the transmission dynamics of HBV with differential infectivity: symptomatic and asymptomatic infections and using optimal control theory, we find that an optimal control strategy is a combination of immunization of young adults (at least susceptible with the age less than 5 years old) and treatment of HBV symptomatic infections. We also observe that mass vaccination in infants increases the average age of infection in unimmunized individuals and shifts the average age at infection to older age groups ([Djidjou-Demasse et al.](https://link.springer.com/content/pdf/10.1007/s00285-015-0952-6.pdf)).</p>
 </body>
 </html>
@@ -55,7 +55,7 @@ img {
 </head>
 <body>
 <h2>COVID-19</h2>
-<p><img src="/uploads/controlCOVID.jpg" alt="ControlCovid" style="width:350px;height:250px;margin-right:15px;">
+<p><img src="/uploads/controlCOVID.jpg" alt="ControlCovid" style="width:700px;height:500px;margin-right:15px;">
 Here we explore the best strategy to implement while waiting for pharmaceutical interventions (either vaccine or treatment). We seek a solution minimizing deaths (D_COVID, directly due the infection  or D_SAT, due to the saturation of the healthcare capacity by severe cases Is) and  costs due to the implementation of the control strategy itself. We find that such a solution leads to an increasing level of control with a maximum reached near the 16th month of the epidemics and a steady decrease until vaccine deployment. The average containment level is approximately 50\% during the 25-months period for vaccine deployment. This strategy strongly outperforms others with constant or cycling allocations of the same amount of resources to control the outbreak. This work opens new perspectives to mitigate the effects of the COVID-19 pandemics, and be used as a proof-of-concept in using mathematical modelling techniques to enlighten decision making and public health management in the early times of an outbreak. ([Djidjou-Demasse et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20049189v1.full.pdf)) </p>
 </body>
 </html>
