@@ -9,21 +9,50 @@ type = "page"
 
 +++
 
-
+<!DOCTYPE html>
 <html>
 <head>
 <style>
-img {
+* {
+  box-sizing: border-box;
+}
+
+.column {
   float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 </style>
 </head>
 <body>
 
-<p><img src="/uploads/AdapDyna1.jpg" alt="AdapDyna1" style="width:350px;height:250px;margin-right:15px;">
-One of the characteristics of HBV (Hepatitis B Virus) transmission is the age structure of the host population and the vertical transmission of the disease. The infection is transmitted directly from infected mother to an embryo, fetus, or baby during pregnancy or childbirth (the perinatal infection). Further, symptomatic and asymptomatic HBV infections are age-dependent and the risk of asymptomatic HBV infection is inversely related to age at infection. By formulating an age-structured model for the transmission dynamics of HBV with differential infectivity: symptomatic and asymptomatic infections and using optimal control theory, we find that an optimal control strategy is a combination of immunization of young adults (at least susceptible with the age less than 5 years old) and treatment of HBV symptomatic infections. We also observe that mass vaccination in infants increases the average age of infection in unimmunized individuals and shifts the average age at infection to older age groups. </p>
+<h2>Images Side by Side</h2>
+<p>One of the characteristics of HBV (Hepatitis B Virus) transmission is the age structure of the host population and the vertical transmission of the disease. The infection is transmitted directly from infected mother to an embryo, fetus, or baby during pregnancy or childbirth (the perinatal infection). Further, symptomatic and asymptomatic HBV infections are age-dependent and the risk of asymptomatic HBV infection is inversely related to age at infection. By formulating an age-structured model for the transmission dynamics of HBV with differential infectivity: symptomatic and asymptomatic infections and using optimal control theory, we find that an optimal control strategy is a combination of immunization of young adults (at least susceptible with the age less than 5 years old) and treatment of HBV symptomatic infections. We also observe that mass vaccination in infants increases the average age of infection in unimmunized individuals and shifts the average age at infection to older age groups.</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/uploads/alpha-fig.jpg" alt="alpha" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/uploads/S.jpg" alt="S" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/uploads/Sh.jpg" alt="Sh" style="width:100%">
+  </div>
+</div>
+
 </body>
 </html>
+
+
+
 
 <html>
 <head>
