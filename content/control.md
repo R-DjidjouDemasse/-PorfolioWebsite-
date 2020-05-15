@@ -55,7 +55,7 @@ img {
 </head>
 <body>
 <h2>COVID-19</h2>
-<p><img src="/uploads/controlCOVID.jpg" alt="ControlCovid" style="width:700px;height:500px;margin-right:15px;">
+<p><img src="/uploads/controlCOVID.jpg" alt="ControlCovid" style="width:600px;height:400px;margin-right:15px;">
 Here we explore the best strategy to implement while waiting for pharmaceutical interventions (either vaccine or treatment). We seek a solution minimizing deaths (D_COVID, directly due the infection  or D_SAT, due to the saturation of the healthcare capacity by severe cases Is) and  costs due to the implementation of the control strategy itself. We find that such a solution leads to an increasing level of control with a maximum reached near the 16th month of the epidemics and a steady decrease until vaccine deployment. The average containment level is approximately 50\% during the 25-months period for vaccine deployment. This strategy strongly outperforms others with constant or cycling allocations of the same amount of resources to control the outbreak. This work opens new perspectives to mitigate the effects of the COVID-19 pandemics, and be used as a proof-of-concept in using mathematical modelling techniques to enlighten decision making and public health management in the early times of an outbreak. ([Djidjou-Demasse et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20049189v1.full.pdf)) </p>
 </body>
 </html>
