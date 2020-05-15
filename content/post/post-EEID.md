@@ -1,7 +1,7 @@
 ---
-title: "Post EEID"
+title: "EEID conference"
 date: 2020-05-15T23:50:08+02:00
-draft: true
+draft: false
 image: "cropped-conference-EEID-2020-montpellier.png"
 ---
 
