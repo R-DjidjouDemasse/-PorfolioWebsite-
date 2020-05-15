@@ -21,13 +21,11 @@ img {
 </style>
 </head>
 <body>
-
-<p> One of the characteristics of HBV (Hepatitis B Virus) transmission is the age structure of the host population and the vertical transmission of the disease. The infection is transmitted directly from infected mother to an embryo, fetus, or baby during pregnancy or childbirth (the perinatal infection). Further, symptomatic and asymptomatic HBV infections are age-dependent and the risk of asymptomatic HBV infection is inversely related to age at infection. By formulating an age-structured model for the transmission dynamics of HBV with differential infectivity: symptomatic and asymptomatic infections and using optimal control theory, we find that an optimal control strategy is a combination of immunization of young adults (at least susceptible with the age less than 5 years old) and treatment of HBV symptomatic infections. We also observe that mass vaccination in infants increases the average age of infection in unimmunized individuals and shifts the average age at infection to older age groups ([Djidjou-Demasse et al.](https://www.biorxiv.org/content/10.1101/423467v2.full.pdf)).</p>
+<h2>HBV (Hepatitis B Virus)</h2>
 <img src="/uploads/controlHBV.jpg" alt="controlHBV" width="1000" height="300">
+<p> One of the characteristics of HBV transmission is the age structure of the host population and the vertical transmission of the disease. The infection is transmitted directly from infected mother to an embryo, fetus, or baby during pregnancy or childbirth (the perinatal infection). Further, symptomatic and asymptomatic HBV infections are age-dependent and the risk of asymptomatic HBV infection is inversely related to age at infection. By formulating an age-structured model for the transmission dynamics of HBV with differential infectivity: symptomatic and asymptomatic infections and using optimal control theory, we find that an optimal control strategy is a combination of immunization of young adults (at least susceptible with the age less than 5 years old) and treatment of HBV symptomatic infections. We also observe that mass vaccination in infants increases the average age of infection in unimmunized individuals and shifts the average age at infection to older age groups ([Djidjou-Demasse et al.](https://link.springer.com/content/pdf/10.1007/s00285-015-0952-6.pdf)).</p>
 </body>
 </html>
-
-
 
 <html>
 <head>
@@ -39,11 +37,15 @@ img {
 </style>
 </head>
 <body>
-
-<p> The monomorphic concentration phenomenon at the evolutionary equilibrium illustrates above is not generaly verify in the case of host heteregeneous environment. That is because the the optimization principle holds only for some configurations, and the shape of R0 function does not allow to characterize evolutionary attractors. The Pairwise Invasibility Plot (PIP) must be used instead. As illustrate below, we have a polymorphic pathogen population at equilibrium in different proportions (panels d,e) but only one local maximum for the R0 as confirmed by the gradient (panels b,c). However, the PIP predicts a polymorphic population (panel a). Indeed, singular strategies, muS and muR, are respectively branching point and evolutionarily stable (no nearby mutant can invade) ([Djidjou-Demasse et al.](https://www.biorxiv.org/content/10.1101/423467v2.full.pdf)).</p>
-<img src="/uploads/Fig-supp-mat.jpg" alt="RO vs PIP" width="1000" height="300">
+<h2>HIV and impact of ART (antiretroviral therapy) drop out</h2>
+<img src="/uploads/HIV-ART.jpg" alt="controlHBV" width="1000" height="300">
+<p> By considering the specific mechanism of HIV, we derive a model structured in three successive stages: primary infection, long phase of latency without symptoms and AIDS. Each HIV stage is stratified by the duration for which individuals have been in the stage, leading to a continuous age-structure model. This model is suitable for the specific mechanisms of ART, which is the use of HIV medicines to slow down the progress of the
+infection. In fact, ART help people with HIV live longer by extending the time spent in a given HIV stage. Interventions strategies, as function of time, are include into the model: the proportion of individuals, h1, under ART at HIV stage 1 and the proportion, h2, under ART at HIV stage 2 (which were not under ART at HIV stage 1). The performance of control startegies is estimated by assessing the total number of AIDS cases during the control period relatively to AIDS cases without any strategy (values above 1 indicate that intervention strategy has negative impact on the epidemics outbreak). We find that  before introducing ART, investigations should be addressed to know whether the host population is well sensibilized on ART treatment or not. These investigations will probably help in reducing the probability of treatment drop out. ([Ba et al.](https://hal.archives-ouvertes.fr/hal-02357239/document)).</p>
 </body>
 </html>
+
+
+
 
 
 
