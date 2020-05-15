@@ -36,10 +36,10 @@ Plants disease resistance genes are not eternal and mathematical models can lead
 We study evolutionary dynamics of a population, for e.g., by taking into account mutation or selection processes. Here, a focus is on integro-differential
 equations with nonlocal terms.
 
-## Optimal control of infectious diseases
+## [Optimal control of infectious diseases](/control.html)
 Management or control of an outbreak is a priority for both public health concerns and environmental considerations. Optimal control theory is a tremendous means for studying and proposing decision support tools. We develop works around this theory for infectious diseases such as COVID-19, HIV or HBV. 
 
-## Human malaria 
+## [Human malaria](/malaria.html) 
 The host-vector pairing is a fundamental relationship in the transmission and evolution of malaria parasites. Through the bacterial diversity within a host, different parasitic forms and environmental impact on the evolution of the vector, we develop models at both within- and between-host scales to better understand mechanisms favouring the persistence of this disease. 
 
 

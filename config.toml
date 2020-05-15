@@ -49,7 +49,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "PUBLICATIONS"
-  url = "/categories/publications/"
+  url = "https://cv.archives-ouvertes.fr/ramses-djidjou-demasse#"
   weight = 200
 
 [[menu.main]]
