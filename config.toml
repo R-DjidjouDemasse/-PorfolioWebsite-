@@ -62,10 +62,10 @@ paginate        = 6
   url = "/tags/opportunities/"
   weight = 200
 
-[[menu.main]]
-  name = "CONTACT"
-  url = "/categories/contact/"
-  weight = 100
+#[[menu.main]]
+#  name = "CONTACT"
+#  url = "/categories/contact/"
+#  weight = 100
 
 #[[menu.main]]
   #name = "Go"
