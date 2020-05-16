@@ -5,11 +5,10 @@ draft = false
 noauthor = true
 share = false
 title = " "
-type = "pages"
+type = "page"
 [menu.main]
    name = "Contact"
 weight = 100
-
 +++
 
 > ## Address
