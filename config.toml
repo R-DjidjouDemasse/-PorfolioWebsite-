@@ -38,10 +38,41 @@ paginate        = 6
   #fbName = "fakeghost"
   githubName = "eueung"
   
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=tIgNPfkAAAAJ&hl=fr"
+  # Section for links to social websites
+    [params.social]
+        title = "Links"
+
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-linkedin-in"
+            url = "https://www.linkedin.com/in/miguel-jorge-galindo-ramos-a0b539109"
+            title = "LinkedIn"		
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-stack-overflow"
+            url = "https://stackoverflow.com/users/4287267/mjgalindo"
+            title = "StackOverflow"
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-github"
+            url = "https://github.com/mjgalindo"
+            title = "GitHub"
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa-twitter"
+            url = "https://twitter.com/galomoribundo"
+            title = "Twitter"
+        #[[params.social.list]]
+        #    class = "ai"
+        #    icon = "ai-google-scholar"
+        #    url = "#"
+        #    title = "Google Scholar"
+        #[[params.social.list]]
+        #    class = "ai"
+        #    icon = "ai-researchgate"
+        #    url = "#"
+        #    title = "ResearchGate"
+
 
   logo = ""
   orgName = "IRD"
