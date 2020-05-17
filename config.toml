@@ -10,17 +10,40 @@ paginate        = 6
   subtitle    = "Dynamical Systems, Population Biology of Infectious Diseases"
 
   cover       = "img/blog-cover.jpg"
-  description = "IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
+  description = "Ramsès Djidjou-Demasse, IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
+ # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
 
-  logo = "logo_IRD.png"
+  #twitterName = "faketryghost"
+  #fbName = "fakeghost"
+  githubName = "eueung"
+  
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=tIgNPfkAAAAJ&hl=fr"
+
+  logo = ""
   orgName = "IRD"
   orgWebsite = "https://en.ird.fr/"
   orgDescription = "The French National Research Institute for Development (IRD) is an internationally multidisciplinary organisation working primarily in partnership with Mediterranean and intertropical countries."
@@ -29,7 +52,7 @@ paginate        = 6
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Montpellier, FR"
   authorWebsite = "https://djidjoudemasse.com"
-  authorDescription = "IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
+  authorDescription = "Ramsès Djidjou-Demasse, IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
 
   pageNotFoundTitle = "404 - Page not found"
 

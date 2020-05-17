@@ -12,13 +12,13 @@ weight = 100
 +++
 
 > ## Address
->MIVEGEC (UMR CNRS 5290, IRD 224, UM)
->900 rue Jean-François Breton
->34090 Montpellier
->France
+>MIVEGEC (UMR CNRS 5290, IRD 224, UM)\
+>900 rue Jean-François Breton\
+>34090 Montpellier\
+>France\
 
->Office: +33(0)4 67 41 51 05
->Fax: +33(0)4 67 41 62 99 
+>Office: +33(0)4 67 41 51 05\
+>Fax: +33(0)4 67 41 62 99\
 >Email:	[ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
 ___
