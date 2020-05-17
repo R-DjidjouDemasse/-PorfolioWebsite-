@@ -1,11 +1,11 @@
 +++
 comments = false
-date = 22020-05-16T12:19:13+02:00
+date = 2020-05-16T12:19:13+02:00
 draft = false
 noauthor = true
 share = false
 title = " "
-type = "page"
+type = "pages"
 [menu.main]
    name = "Contact"
 weight = 100
