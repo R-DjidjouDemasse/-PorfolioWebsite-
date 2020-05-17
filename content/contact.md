@@ -11,7 +11,7 @@ type = "pages"
 weight = 100
 +++
 
-> # Address
+> ## Address
 >MIVEGEC (UMR CNRS 5290, IRD 224, UM)
 >900 rue Jean-François Breton
 >34090 Montpellier
@@ -23,7 +23,7 @@ weight = 100
 
 ___
 
-> # Getting there
+> ## Getting there
 >Bus stop is [Campus Agropolis](https://www.tam-voyages.com/horaires_arret/index.asp?rub_code=28&keywordsDep=Campus+Agropolis+%28Arr%C3%AAt%29+-+MONTPELLIER&pointDep=5397%24Campus+Agropolis%244%2434172) ([tram line 1](https://www.tam-voyages.com/horaires_ligne/?rub_code=6&thm_id=&lign_id=1&sens=2&laDate=17%2F03%2F2015) to Saint Eloi and then the bus ['La Navette'](https://www.tam-voyages.com/horaires_ligne/?rub_code=6&thm_id=&lign_id=5&sens=2&laDate=17%2F03%2F2015)) and then walk 10 to 15 minutes on the rue Jean-François Breton. There are car parking places in front of the building.
 The building is labelled number 900 and there is a buzzer at the door.
 

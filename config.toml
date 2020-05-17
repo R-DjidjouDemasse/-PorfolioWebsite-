@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "Dynamical Systems, Population Biology of Infectious Diseases"
 
   cover       = "img/blog-cover.jpg"
-  description = "IRD Researcher at the MIVEGEC lab in Montpellier. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
+  description = "IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -20,16 +20,16 @@ paginate        = 6
   fbName = "fakeghost"
   githubName = "eueung"
 
-  logo = ""#"hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = "logo_IRD.png"
+  orgName = "IRD"
+  orgWebsite = "https://en.ird.fr/"
+  orgDescription = "The French National Research Institute for Development (IRD) is an internationally multidisciplinary organisation working primarily in partnership with Mediterranean and intertropical countries."
 
   author = "RDD"
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Montpellier, FR"
   authorWebsite = "https://djidjoudemasse.com"
-  authorDescription = "Describe yourself.."
+  authorDescription = "IRD Researcher. I focus on population dynamics, usually of host-natural enemy interactions, to understand fundamental processes in epidemiology, ecology and evolution of infectious disease. My works are based on a combination of Mathematical analysis and Modeling with a particular focus on Dynamical Systems."
 
   pageNotFoundTitle = "404 - Page not found"
 
