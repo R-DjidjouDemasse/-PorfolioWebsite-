@@ -28,8 +28,6 @@ ___
 The building is labelled number 900 and there is a buzzer at the door.
 
 ___
-___
-___
 
 >## Technical and legal issues
 >This website is based on [HUGO framework](https://gohugo.io/) under the [MIT licence](https://en.wikipedia.org/wiki/MIT_License).
