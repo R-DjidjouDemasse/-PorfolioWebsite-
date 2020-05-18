@@ -32,6 +32,6 @@ ___
 >## Technical and legal issues
 >This website is based on [HUGO framework](https://gohugo.io/) under the [MIT licence](https://en.wikipedia.org/wiki/MIT_License).
 >Responsibility for the information and views set out in this website lies entirely with the author.
-><dl> <td> Unless specified otherwise, this website and all of its contents are licenced under an <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution & non-commercial & share alike 4.0 International Creative Commons Licence</a></td> 
+><dl> <td> This website and all of its contents are licenced under an <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution & non-commercial & share alike 4.0 International Creative Commons Licence</a></td> 
                         <td> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> </td></dl>
 
