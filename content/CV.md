@@ -10,7 +10,7 @@ type = "page"
 +++
 # Ramsès Djidjou-Demasse
 Dynamical Systems, Population Biology of Infectious Diseases.
-<img SRC="uploads/pdf.png" ALT="RDD" HSPACE=0 HEIGHT="40" BORDER="0"> <A HREF="uploads/CV_Djidjou_Demasse.pdf" target="_blank">Detailed vitae</A>
+<img SRC="/uploads/pdf.png" ALT="RDD" HSPACE=0 HEIGHT="40" BORDER="0"> <A HREF="/uploads/CV_Djidjou_Demasse.pdf" target="_blank">Detailed vitae</A>
 
 
 >## Research employments
