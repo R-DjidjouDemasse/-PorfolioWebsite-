@@ -9,36 +9,11 @@ type = "page"
 
 +++
 
- <h4> Expérience de recherche </h4>    
-
-      <div class="col-12 col-sm-12">  
-   <table border="0" style="width:6">
-      <tr>         
-            <td>depuis 2017 &nbsp; &nbsp; </td>
-            <td>Directeur de Recherche au <a href="http://www.cnrs.fr/">CNRS</a> dans le Laboratoire <a href="http://www.mivegec.ird.fr/">MIVEGEC<a></td>
-          </tr>
-          <tr> 
-          <tr>         
-            <td>2010-2017 </td>
-            <td>Chargé de Recherche au <a href="http://www.cnrs.fr/">CNRS</a> dans le Laboratoire <a href="http://www.mivegec.ird.fr/">MIVEGEC<a></td>
-          </tr>
-          <tr>
-            <td>2008-2009</td>
-             <td>ETH fellow avec <a href="http://www.tb.ethz.ch/people/person-detail.html?persid=88316">Sebastian Bonhoffer</a> à l'<a href="https://www.ethz.ch/en.html">ETH Zürich</a> (Switzerland)</td>
-           </tr>
-          <tr>           
-            <td>2006-2008</td>
-             <td>Post-doctorat avec <a href="http://www.mast.queensu.ca/~tday/">Troy Day</a> et <a href="http://www.mast.queensu.ca/~peter/index.htm">Peter Taylor</a> à <a href="http://www.queensu.ca/">Queen's University</a> (Canada)</td>
-           </tr>
-          <tr>           
-            <td>2003-2006</td>
-             <td>Doctorat avec <a href="http://www.roseraie.lautre.net/minus/">Minus van Baalen</a> à l'<a href="http://www.upmc.fr/">Université Paris 6</a> (France)</td>
-           </tr>           
-                     </tr>          
-             <tr class="blank_row">
-            <td>&nbsp;</td>
-          </tr>
-       </table> 
-
-    </div>        
-    </div>    
+>## Research employments\
+___
+- Since 2018, Chargé de recherche IRD, (tenured researcher), Laboratoire MIVEGEC, Montpellier, France
+- 2018, Post-Doc INSERM-Paris and consulting for the medical aid organization  ALIMA, with Pr Y. Yazdanpanah, Dr J. Guedj
+- 2015-2017, Post-Doc, AgreenSkills fellow, INRAe & IMB Bordeaux, with Dr F. Fabre, Dr J.B. Burie, Pr A. Ducrot
+- 2011-2015, PhD student Mathematics/Modeling, Univ. of Yaoundé 1, Cameroon, Supervisors: Pr S. Bowong (Univ. Douala, Cameroon), Pr J.J. Tewa (Univ. Yaoundé 1, Cameroon}{Reporters: Pr J. Arino (Univ. Manitoba, Canada), Pr G. Ngwa (Univ. Buea, Cameroon), Pr N. Noutchegueme (Univ. Yaoundé 1, Cameroon). Defended: June 25, 2015
+- 2011,2012,2014, PhD research internship, Institut Pasteur Paris, Mathematics Institute of Bordeaux, Lab. of Mathematics and Applications, Metz, with  Dr S. Cauchemez, Pr A. Ducrot, Pr G. Sallet
+- 2009-2011, Magistère in Mathematics, University of Yaoundé 1, Cameroon, with Dr B. Mewolli
