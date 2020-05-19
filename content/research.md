@@ -42,7 +42,6 @@ Management or control of an outbreak is a priority for both public health concer
 ## [Human malaria](/malaria.html) 
 The host-vector pairing is a fundamental relationship in the transmission and evolution of malaria parasites. Through the bacterial diversity within a host, different parasitic forms and environmental impact on the evolution of the vector, we develop models at both within- and between-host scales to better understand mechanisms favouring the persistence of this disease. 
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
