@@ -20,7 +20,7 @@ weight = 250
 
 ___
 
-> ## [Mboy Ba](https://www.researchgate.net/profile/Mboya_Ba)
+> ## [Mboya Ba](https://www.researchgate.net/profile/Mboya_Ba)
 > PhD candidate at UCAD on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
 
 
