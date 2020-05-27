@@ -21,7 +21,7 @@ paginate        = 6
   #githubName = "eueung"
  
 
-  logo = ""
+  logo = "/img/logo.png"
   orgName = "R. Djidjou-Demasse"
   orgWebsite = "https://en.ird.fr/"
   orgDescription = "The French National Research Institute for Development (IRD) is an internationally multidisciplinary organisation working primarily in partnership with Mediterranean and intertropical countries."
