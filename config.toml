@@ -41,6 +41,12 @@ paginate        = 6
   post = "/:slug/"
 
 
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
 [[menu.main]]
   name = "HOME"
   url = "/"
