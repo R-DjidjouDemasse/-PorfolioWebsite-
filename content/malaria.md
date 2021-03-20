@@ -24,6 +24,9 @@ img {
 <p> </p>
 <img src="/uploads/ModelData.png" alt="MalariaIner" width="1000" height="100">
 <p> At the epidemiological level, we are also developing malaria transmission models with seasonal mosquito life-history traits such as: periodic-mosquitoes per capita birth rate, -mosquitoes death rate, -probability of mosquito to human disease transmission, -probability of human to mosquito disease transmission and -mosquitoes biting rate. In addition to some interesting math results, the model outputs are in accordance with the seasonal variation of the reported cases of a malaria-epidemic region, e.g., in Mpumalanga province in South Africa ([Djidjou-Demasse et al.](https://www.researchgate.net/publication/338233368_Development_and_analysis_of_a_malaria_transmission_mathematical_model_with_seasonal_mosquito_life-history_traits)). </p>
+</p>
+<img src="/uploads/FigPaluMutiStructure.png" alt="FigPaluMutiStructure" width="1000" height="100">
+<p> In contrast to the many theoretical studies on the transmission of human-mosquitoes malaria infection, few studies have considered multiple structure model formulations including (i) the chronological age of humans and mosquitoes population, (ii) the time since humans and mosquitoes are infected and (iii) humans waning immunity (i.e., the progressive loss of protective antibodies after recovery). Such structural variables are well documented to be fundamental for the transmission of human-mosquitoes malaria infections. Eg, the expression of the basic reproduction number obtained here particularly highlight the effect of the above structural variables on key important epidemiological traits of the human-vector association. This includes the vectorial capacity (i.e., vector's daily reproduction rate), humans transmission probability and survival rates.  ([Richard et al.](https://hal.archives-ouvertes.fr/hal-03090649)). </p>
 </body>
 </html>
 
