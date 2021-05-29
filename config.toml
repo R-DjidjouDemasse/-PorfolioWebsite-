@@ -5,6 +5,9 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [params]
   title       = "Ramsès Djidjou-Demasse"
   subtitle    = "Dynamical Systems, Population Biology of Infectious Diseases"
