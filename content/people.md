@@ -12,7 +12,7 @@ weight = 250
 
 +++
 
-> ## [Ramsès Djidjou-Demasse](https://djidjoudemasse.com/)
+> ## [Ramsès Djidjou-Demasse](/CV.html)
 > Researcher at the [IRD](https://en.ird.fr/)\
 > Lab [MIVEGEC](https://mivegec.ird.fr/en/)\
 > [Curriculum Vitae](/CV.html)\
