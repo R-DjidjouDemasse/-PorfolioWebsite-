@@ -19,11 +19,9 @@ weight = 250
 > Email: [ramses.djidjoudemasse(at)ird.fr](mailto:ramses.djidjoudemasse@ird.fr)
 
 ___
+
 > ## [Moctar Kande](https://www.linkedin.com/in/moctar-kande-4911baa8/?originalSubdomain=sn)
 > Postdoctoral researcher on evolutionary dynamics of hospital-acquired infections.
-
-> ## [Mboya Ba](https://www.researchgate.net/profile/Mboya_Ba)
-> PhD candidate at UCAD on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)).
 
 > ## Zavier Nloga Bakinde
 >Master internship on TB, drug-resistance and co-infections at [CETIC-African Center of Exellence](https://cetic.cm/).
@@ -32,6 +30,9 @@ ___
 > Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites.
 
 ___
+
+> ## [Mboya Ba](https://www.researchgate.net/profile/Mboya_Ba)
+> PhD candidate at UCAD on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)). Thesis defended May 2021.
 
 >## Julien Lombard
 > Master internship in 2019 on modeling antibiotic resistance and co-infections (co-advisor [Mircea T. Sofonea](http://www.normalesup.org/~sofonea/rec.html.en.html)).
