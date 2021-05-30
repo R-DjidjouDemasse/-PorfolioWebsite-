@@ -4,6 +4,7 @@ date = 2021-05-30
 draft = false
 noauthor = true
 share = false
+image: "/defimg/1.jpg"
 title = " "
 type = "pages"
 [menu.main]
