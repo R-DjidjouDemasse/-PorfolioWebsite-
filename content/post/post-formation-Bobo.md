@@ -5,4 +5,4 @@ draft: false
 image: "afficheFormationLangageR.jpg"
 ---
 
-[26 au 30 Octobre 2020, Bobo-Dioulasso](https://mivegec.ird.fr/fr/emploiformation-2/cours-et-formations/1629-formation-introduction-a-la-modelistion-mathematique-des-maladies-infectieuses-26-30-10-20) 
+[25 Octobre au 04 Novembre 2021, Bobo-Dioulasso](https://www.ird.fr/psf-moma) 
