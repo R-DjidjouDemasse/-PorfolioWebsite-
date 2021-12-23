@@ -29,7 +29,7 @@ ___
 ___
 
 > ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
-> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites (Jan 2020 to Aug 2021).
+> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites (01/2020 - 08/2021).
 
 > ## Zavier Nloga Bakinde
 >Master internship in 2021 on TB, drug-resistance and co-infections at [CETIC-African Center of Exellence](https://cetic.cm/).
