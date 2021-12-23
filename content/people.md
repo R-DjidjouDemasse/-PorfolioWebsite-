@@ -23,13 +23,14 @@ ___
 > ## [Moctar Kande](https://www.linkedin.com/in/moctar-kande-4911baa8/?originalSubdomain=sn)
 > Postdoctoral researcher on evolutionary dynamics of hospital-acquired infections.
 
-> ## Zavier Nloga Bakinde
->Master internship on TB, drug-resistance and co-infections at [CETIC-African Center of Exellence](https://cetic.cm/).
-
-> ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
-> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites.
 
 ___
+
+> ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
+> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites (01/2020-80/2021).
+
+> ## Zavier Nloga Bakinde
+>Master internship in 2021 on TB, drug-resistance and co-infections at [CETIC-African Center of Exellence](https://cetic.cm/).
 
 > ## [Mboya Ba](https://www.researchgate.net/profile/Mboya_Ba)
 > PhD candidate at UCAD on HIV age-structured model's (co-advisors: [Jean-Jules Tewa](https://www.researchgate.net/profile/Tewa_Jean_Jules), [Mountaga Lam](https://www.researchgate.net/profile/Lam_Mountaga)). Thesis defended May 2021.
