@@ -20,14 +20,16 @@ weight = 250
 
 ___
 
+> ## [Hyacinthe Ndongmo](https://www.researchgate.net/profile/Hm-Teytsa)
+> Postdoctoral researcher on mathematical assessment of phage therapy as a new alternative in the control of pathogen bacteria.
+
 > ## [Moctar Kande](https://www.linkedin.com/in/moctar-kande-4911baa8/?originalSubdomain=sn)
 > Postdoctoral researcher on evolutionary dynamics of hospital-acquired infections.
-
 
 ___
 
 > ## [Quentin Richard](http://quentin.richard.perso.math.cnrs.fr/index_en.html)
-> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites (01/2020-80/2021).
+> Postdoctoral researcher on modellling of transmission strategies of vector-borne parasites (01/2020 - 80/2021).
 
 > ## Zavier Nloga Bakinde
 >Master internship in 2021 on TB, drug-resistance and co-infections at [CETIC-African Center of Exellence](https://cetic.cm/).
