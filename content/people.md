@@ -20,6 +20,12 @@ weight = 250
 
 ___
 
+> ## [Luther Mann-Manyombe](https://scholar.google.fr/citations?user=WFbmvvQAAAAJ&hl=fr)
+> Postdoctoral researcher on evolutionary dynamics of quantitative AMR.
+
+> ## [Abdoulaye Mendy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjlwe3W5ar2AhUH3IUKHXVtCRYQFnoECAgQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAbdoulaye-Mendy&usg=AOvVaw3b_FDFNxwtaYSq12iFHYbA)
+> Postdoctoral researcher on evolutionary dynamics of quantitative AMR.
+
 > ## [Hyacinthe Ndongmo](https://www.researchgate.net/profile/Hm-Teytsa)
 > Postdoctoral researcher on mathematical assessment of phage therapy as a new alternative in the control of pathogen bacteria.
 
