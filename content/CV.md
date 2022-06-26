@@ -15,6 +15,7 @@ Dynamical Systems, Population Biology of Infectious Diseases.
 
 
 >## Research employments
+- June 2022, Habilitation à Diriger des Recherches, [Structured models and applications in population dynamics](https://hal.archives-ouvertes.fr/tel-03700629/document)
 - Since 2018: Chargé de recherche (tenured researcher) at [IRD](https://en.ird.fr/), Lab [MIVEGEC](https://mivegec.ird.fr/en/), Montpellier, France
 - 2018: Post-Doc [INSERM Paris](https://www.iame-research.center/) and consulting for the medical aid organization [ALIMA](https://www.alima-ngo.org/en/), with [Pr Y. Yazdanpanah](https://www.iame-research.center/eq5/members/), [Dr J. Guedj](https://www.iame-research.center/eq4/members/)
 - 2015-2017: Post-Doc, [AgreenSkills fellow](https://www.agreenskills.eu/Fellows-Labs/Fellows-Alumni2/Ramses-Djidjou-Demasse), [INRAe](https://www6.bordeaux-aquitaine.inrae.fr/sante-agroecologie-vignoble) & [IMB](https://www.math.u-bordeaux.fr/imb/spip.php) Bordeaux, with [Dr F. Fabre](https://www6.bordeaux-aquitaine.inrae.fr/sante-agroecologie-vignoble/Personnel/Chercheurs/Frederic-Fabre), [Dr J.B. Burie](https://www.math.u-bordeaux.fr/~jburie100p/), [Pr A. Ducrot](https://lmah.univ-lehavre.fr/~ducrot/index.html)
