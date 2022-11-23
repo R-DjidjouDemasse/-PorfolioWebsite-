@@ -5,4 +5,4 @@ draft: false
 image: "EDySAMOMA.jpg"
 ---
 
-[Workshop on Evolutionary Dynamical Systems and Applications and Training on MAthematics and MOdeling](https://edysa-moma.ept.sn/) 
+[Workshop on Evolutionary Dynamical Systems and Applications and Training on MAthematics and MOdeling](https://edysa-moma.ept.sn) 
