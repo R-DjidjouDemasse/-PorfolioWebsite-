@@ -5,4 +5,4 @@ draft: false
 image: "ANR-logo-2021-sigle.jpg"
 ---
 
-[Quantitative antimicrobial resistance – QUASAR](https://anr.fr/Project-ANR-21-CE45-0004) 
+[Quantitative antimicrobial resistance– QUASAR](https://anr.fr/Project-ANR-21-CE45-0004) 
