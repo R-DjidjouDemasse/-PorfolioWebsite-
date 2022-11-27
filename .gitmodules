@@ -2,6 +2,6 @@
     path = themes/casper-two
     url = "https://github.com/eueung/hugo-casper-two"
     
-    [submodule "themes/hugo-casper-two"]
+[submodule "themes/hugo-casper-two"]
     path = themes/hugo-casper-two
     url = "https://github.com/vjeantet/hugo-theme-casper"
