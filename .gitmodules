@@ -5,3 +5,7 @@
 [submodule "themes/casper-two"]
     path = themes/casper-two
     url = "https://github.com/eueung/hugo-casper-two"
+
+[submodule "themes/hugo-theme-hinode"]
+    path = themes/hugo-theme-hinode
+    url = "https://github.com/markdumay/hugo-theme-hinode"
