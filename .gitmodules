@@ -1,0 +1,3 @@
+[submodule "hugo-theme-hinode"]
+    path = hugo-theme-hinode
+    url = https://github.com/markdumay/hugo-theme-hinode
