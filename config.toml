@@ -1,5 +1,5 @@
 baseurl         = "https://djidjoudemasse.com/"
-theme           = "hugo-casper-two"
+theme           = "hugo-theme-hinode"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
